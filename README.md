@@ -18,11 +18,15 @@ A centralized repository hosting all supplementary materials for the book "AI In
 - <a href="https://github.com/memoll/ConstructAI/blob/main/LICENSE">LICENSE</a>
 - CONTRIBUTING guidelines
 
-<p id="chaps">
-  <h3 id="chaps">Chapter Sections:</h3>
-</p>
+<div class="col-md-4">
+     <h3 id="chaps">Chapter Sections:</h3>
+</div>
 
 12 separate folders (one per chapter)
+
+Chapter content details are provided <a href="#org">below</a>
+
+- <a href="https://github.com/memoll/ConstructAI/blob/main/Chapters/Chapter1"><strong>Chapter 1</strong></a> 
 
 <p id="org">
   <h3 id="org">Chapter Organization:</h3>
