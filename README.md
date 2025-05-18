@@ -25,7 +25,7 @@ A centralized repository hosting all supplementary materials for the book "AI In
 12 separate folders (one per chapter)
 
 <p id="org">
-  <h2 id="org">Chapter Organization:</h2>
+  <h3 id="org">Chapter Organization:</h3>
 </p>
 
 Each chapter folder will contain:
